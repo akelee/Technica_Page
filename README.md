@@ -1,1 +1,1 @@
-# Technica_Page
+# Technical_Page
