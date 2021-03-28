@@ -1,0 +1,89 @@
+#navbar {
+  height:100%;
+  width: 340px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-weight: bold;
+  overflow-x: hidden;
+  padding-top: 10px 10px 10px 25px;
+  line-height:20px;
+  z-index: 1;
+  background: white;
+  
+}
+
+#navbar a:hover {
+	background-color: lightslategrey;
+  padding: 0.5px;
+	color: white;
+  border: transparent;
+  border-radius:4px;
+}
+
+.nav-link {
+  font-family: courier, arial;
+  color: lightcoral;
+  border-top: 1px;
+  text-decoration: none;
+  line-height: 30px;
+  
+}
+
+.main-section {
+  font-family: courier;
+  font-weight: bold;
+  font-size:;
+	margin-left: 360px;
+  color: darkslategray;
+}
+
+@media only screen and (max-width: 320px) {
+	body {
+		font-size: 2em;
+	}
+}
+
+
+
+#main-doc {
+  border: 1px solid white;
+  border-align: right;
+  font-family: arial;  
+}
+
+
+.nav_header {
+  font-size: 1.5em;
+  font-style: bold;
+  font-family: courier, arial;
+  lin-height: 1.75;
+  text-aligh: center;
+  text-decoration: underline;
+  margin-left:40px;
+  margin-top:20px;
+}
+
+h1 {
+  margin-left: 360px;
+  font-family: courier;
+  font-size: 40px;
+  color: darkslategrey;
+}
+
+header {
+  font-size: 33px;
+  font-family: courier, arial;
+  color: lightcoral;
+  text-decoration: underline;
+  }
+
+code {
+  font-size: 13px;
+  padding: 10px;
+  background: whitesmoke;
+  background-size: 50px 100px;
+  line-height: 25px;
+    
+}
+
